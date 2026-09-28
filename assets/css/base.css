@@ -1,0 +1,23 @@
+.img-hover-wrapper {
+  overflow: hidden;
+  height: 500px;
+  width: 100%;
+  position: relative;
+}
+
+.zoom-img {
+  transition: transform 3s ease;
+}
+
+.zoom-img .v-image__image {
+  transition: transform 3s ease;
+  transform-origin: center center;
+}
+
+.scroll-zoom {
+  transition: transform 1s ease;
+}
+
+.scroll-zoom.zoomed {
+  transform: scale(1.1);
+}
