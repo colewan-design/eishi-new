@@ -530,6 +530,7 @@ export default {
     partnerWithUs: 'Partner With Us',
     footerDescription:
       'A diversified holding company rooted in agriculture, real estate, and community development across the Philippine archipelago.',
+    heroEyebrow: 'Est. Philippines · Since 2018',
     homeParagraph1: `Eishi is a holding company focused on industrial-scale food production and property investments, supporting Philippine food security and economic growth.`,
     homeParagraph2: `Additionally, Eishi manages and oversees foreign investments, offering partnership opportunities in real estate investments and property development, contributing to the national economy.`,
     welcome: 'Welcome to Eishi Property Holdings',
@@ -1167,7 +1168,8 @@ export default {
     partnerWithUs: '事業提携について',
     footerDescription:
       'フィリピンを拠点に、養鶏、不動産、地域開発など幅広い事業を展開しています。',
-    homeParagraph1: `エイシは、イーパートナーズの完全子会社として、同社の経営基盤とネットワークを活かし、フィリピンにおける産業規模の食品生産と不動産投資を牽引する事業推進会社です。`,
+    homeParagraph1: `エイシは、イーパートナーズの完全子会社として、同社の経営基盤とネットワークを活かし、フィリピンにおける産業規模の食品生産と不動産投資を牽引する事業会社です。`,
+    heroEyebrow: '2018年、フィリピンで創立',
     homeParagraph2: `さらに、海外投資の管理・監督を行い、不動産投資や開発におけるパートナーシップ
         の機会を提供し、国の経済発展にも寄与しています。`,
     welcome: 'ようこそ。',

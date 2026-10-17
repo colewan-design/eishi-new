@@ -800,7 +800,7 @@
       <div class="hero-content">
         <div class="hero-eyebrow">
           <div class="hero-eyebrow-line" />
-          <span>Est. Philippines · Since 2018</span>
+          <span>{{ t.heroEyebrow || 'Est. Philippines · Since 2018' }}</span>
         </div>
         <h1>Building<br><em>Legacies.</em></h1>
         <p class="hero-sub">{{ t.homeParagraph1 }}</p>
